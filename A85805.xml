@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The path-way to peace. Or, The only assured and most certain means, whereby to heal the sores, make up the breaches, remove the fears, prevent the ruine, reconcile the differences, and put a finall end to the manifold divisions of this famous (though now much distracted) kingdom. By that faithfull and painfull preacher of Gods Word, Thomas Gardener, late pastor of St Maries in Sandwich. It is ordered this thirteenth day of February, 1642. by the committee of the House of Commons in Parliament concerning printing, that this book, intituled, The path-way to peace, be printed. John White.</title>
+            <author>Gardener, Thomas, d. 1635.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85805</idno>
+            <idno type="STC">Wing G250</idno>
+            <idno type="STC">Thomason E105_1</idno>
+            <idno type="STC">ESTC R5591</idno>
+            <idno type="EEBO-CITATION">99872869</idno>
+            <idno type="PROQUEST">99872869</idno>
+            <idno type="VID">125315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The path-way to peace. Or, The only assured and most certain means, whereby to heal the sores, make up the breaches, remove the fears, prevent the ruine, reconcile the differences, and put a finall end to the manifold divisions of this famous (though now much distracted) kingdom. By that faithfull and painfull preacher of Gods Word, Thomas Gardener, late pastor of St Maries in Sandwich. It is ordered this thirteenth day of February, 1642. by the committee of the House of Commons in Parliament concerning printing, that this book, intituled, The path-way to peace, be printed. John White.</title>
+                  <author>Gardener, Thomas, d. 1635.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for John Browne, and are to be sold at his Shop in St Dunstans Church-yard, Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June ye 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XVI, 7 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125315:1"/>
+            <pb facs="tcp:125315:1" rendition="simple:additions"/>
+            <p>The Path-way to PEACE. OR, The only aſſured and moſt certain Means, whereby to heal the ſores, make up the breaches, remove the fears, prevent the ruine, reconcile the differences, and put a finall end to the manifold diviſions of this famous (though now much diſtracted) Kingdom.</p>
+            <p>By that faithfull and painfull Preacher of Gods Word, <hi>THOMAS GARDENER,</hi> late Paſtor of <hi>S<hi rend="sup">t</hi> Maries</hi> in <hi>Sandwich.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 147.14.</bibl>
+               <p>He maketh Peace in thy borders.</p>
+               <p>
+                  <hi>OR,</hi>
+               </p>
+               <p>Who maketh thy borders Peace.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IT is Ordered this thirteenth day of February, <hi>1642.</hi> by the Committee of the Houſe of Commons in Parliament con<g ref="char:EOLhyphen"/>cerning Printing, That this book, intituled, <hi>The Path-way to Peace,</hi> be printed.</p>
+                        <closer>
+                           <signed>JOHN WHITE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. R.</hi> for <hi>John Browne,</hi> and are to be ſold at his Shop in S<hi rend="sup">t</hi> 
+               <hi>Dunſtans</hi> Church-yard, Fleet-ſtreet. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:125315:2"/>
+            <p>To the RIGHT WORSHIPFULL, THE MAIOR, THE WORSHIPFULL, THE JURATS His Brethren; And the reſt of the INHABITANTS Of the Town and Port of SANDWICH,</p>
+            <p>The <hi>Publiſher</hi> hereof Dedicateth theſe <hi>Firſt Fruits</hi> of their PASTORS Labours:</p>
+            <p>And wiſheth, That <hi>their wayes may ſo pleaſe the Lord,</hi> that <hi>they may enjoy Peace Externall, Internall, Eternall.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:125315:2"/>
+            <head>The Path-way to Peace.</head>
+            <epigraph>
+               <q>
+                  <bibl>PROVERB. 16.7.</bibl>
+                  <p>When a mans wayes pleaſe the Lord, he maketh even his enemies to be at peace with him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He righteous have ſo many and ſo exceeding great encouragements, to ſtrengthen them in the proſecution of a religious courſe of life;<note place="margin">The godly have manifold encourage<g ref="char:EOLhyphen"/>ments to ſtren<g ref="char:EOLhyphen"/>then them in their religious courſes.</note> ſo ſweet invitations, and ſtrong allurements, with ſuch glorious promiſes, that if they be not very heartleſſe cowards, they cannot but be reſolute, in the declaration of the powerfull profeſſion of the grace of Chriſt Jeſus; for to let paſſe thoſe unſpeakably ſweet and comfortable promiſes of grace in this life, and its conſequents; and of glory hereafter, and its concomitants; not to ſpeak of them (for indeed they are inexplicable, and if I had the tongue of men and Angels, I ſhould but bungle in ſetting them forth unto you) I ſay, beſide theſe ſpirituall and heavenly bleſſings appropriated unto the Saints, there are alſo many temporall priviledges, which more peculiarly belong unto them; all which compared together, makes their preſent condition (though outwardly never ſo baſe and de<g ref="char:EOLhyphen"/>ſpicable) to tranſcend and over-top the Bay-flouriſhing eſtate
+<pb n="4" facs="tcp:125315:3"/>of the ungodly ſons of <hi>Belial,</hi> though they bathe themſelves never ſo plenteouſly in the rivers of the pleaſures of this life, and be never ſo much encompaſſed with the reſtleſſe deſires of their own carnall heart. Amongſt thoſe promiſes, <hi>this</hi> may not undeſervedly be ranked, which the wiſeſt of meer men propounds unto us in this proportion of holy Scrip<g ref="char:EOLhyphen"/>ture, which as a coſtly jewell in a Ring of fine gold, or as a glorious gliſtering Star fixed in his Orb, offers it ſelf un<g ref="char:EOLhyphen"/>to our conſideration, containing thus much in effect; <hi>That when a mans courſes,</hi>
+               <note place="margin">The ſum and ſubſtance of the promiſe here laid down.</note> 
+               <hi>proceedings, and all his actions; his carriage towards God, his intercourſe and converſation with men: When</hi> (I ſay) <hi>theſe his wayes are ſo equally and evenly levelled and ſquared, that they are well-pleaſing to the eyes of the Almighty, the Lord doth ſu proſper him in all his affairs, that if he get not the love and hearty affection of his enemies, yet at leaſt<g ref="char:EOLhyphen"/>wiſe he ſo orders it, that be makes them to be outwardly at peace with him.</hi>
+            </p>
+            <p>
+               <note place="margin">The Diviſion of the Text.</note>The words being thus unfolded, we may conceive two generall parts therein:</p>
+            <p n="1">1. An Exhortation to a godly life, <hi>viz.</hi> That <hi>our wayes may pleaſe the Lord;</hi> which is propounded by way of ſuppoſition, <hi>When a mans wayes pleaſe the Lord.</hi>
+            </p>
+            <p n="2">2. A Motive to enforce the ſame, from the benefit enſuing thereupon; <hi>Our enemies ſhall be at peace with us: When a mans wayes pleaſe the Lord, he maketh even his enemies to be at peace with him.</hi>
+            </p>
+            <p>
+               <note place="margin">The Expoſiti<g ref="char:EOLhyphen"/>on of the words with the parti<g ref="char:EOLhyphen"/>cular obſerva<g ref="char:EOLhyphen"/>tions included therein.</note>In theſe two generall points, there are many particulars obſervable, included as hand-maids to the main point, and are wrapped about the body of the Text, as the Ivy about the tree; But becauſe they are not ſo directly incident to the Text, I will but touch them, and ſo leave them.</p>
+            <p>
+               <note place="margin">What we are to underſtand by <hi>Wayes.</hi>
+               </note>
+               <hi>Wayes.</hi> Men actions, motion of their affections, and common courſe of life, are uſually called <hi>wayes</hi> in the Scrip<g ref="char:EOLhyphen"/>tures, in regard of the neer reſemblance of each to other; for as by the <hi>way</hi> which a man travelleth, we may conjecture whither he goeth, Eaſt-ward or Weſt-ward, ſo our actions ſhew wither we are going, to infernall <hi>AEgypt,</hi> or to
+<pb n="5" facs="tcp:125315:3"/>the celeſtiall <hi>Canaan;</hi> whether to <hi>Hell</hi> or <hi>Heaven:</hi> There's no <hi>third</hi> way.</p>
+            <p>Mans wayes. <hi>Mens wayes of themſelves cannot pleaſe God,</hi>
+               <note place="margin">Mens wayes o themſelves cannot pleaſe God. Rom. 8 7. Iſa. 64 6.</note> for the moſt Reformed are abominable before the Lord. The very <hi>wiſed in of the fleſh is enmity againſt God;</hi> and, <hi>We all are as an unclean cloth, and our righteouſneſſe is as filthy rags<g ref="char:punc">▪</g>
+               </hi> We are therefore here to underſtand <hi>mans wayes ſanctified and directed by the ſpirit of the Lord.</hi>
+            </p>
+            <p>
+               <note place="margin">The wayes of the true con<g ref="char:EOLhyphen"/>vert are plea<g ref="char:EOLhyphen"/>ſing wayes.</note>Pleaſe the Lord. <hi>The wayes of the true convert are pleaſing wayes, pleaſing in their own nature,</hi> as being the actions of divine grace <hi>in their Originall,</hi> as proceeding from an upright heart, and faith unfaigned; and <hi>in their effect,</hi> as being very delightfull and comfortable unto us in the performing of them; and therefore in Scripture the <hi>wayes of wiſedom,</hi> that is,<note place="margin">Prov. 3.17.</note> of him that is truely wiſe, are called <hi>wayes of pleaſantneſſe,</hi> and King <hi>Solomon</hi> admires this pleaſingneſſe of Chriſts Spouſe, ſaying, <hi>How fair, and how pleaſant art thou, O Love,</hi>
+               <note place="margin">Cant. 7 6.</note> 
+               <hi>for delights.</hi>
+            </p>
+            <p>Again,<note place="margin">The wayes of the godly are pleaſing to the Lord. Iſa. 62.4. Though di<g ref="char:EOLhyphen"/>ſtaſtefull to the wick<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Prov. 29.27. Cant. 4.9.</note> 
+               <hi>The wayes of a righteous man are indeed pleaſing unto the Lord;</hi> and therefore he calls his Church <hi>Hepbzibah,</hi> that is<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>My delight is in her:</hi> But contrarily they are unſa<g ref="char:EOLhyphen"/>voury and diſtaſtefull to the wicked, who finde no more taſte in ſuch wayes then in the white of an egge. <hi>He that is up<g ref="char:EOLhyphen"/>right in the way, is an abomination to the wicked.</hi>
+            </p>
+            <p>The Lord, <hi>The Object of all the righteous mans actions muſt be Jehovah, our God.</hi> We muſt not regard our ſelves, nor the world. As we are the Spouſe of Chriſt, ſo we muſt behave our ſelves as the chaſte Spouſe, whoſe care is, how ſhe may pleaſe her Bride-groom, who hath betrothed himſelf unto her; other mens love ſhe mindes not: So we, if we can pleaſe God, no matter whom we diſpleaſe.</p>
+            <p>
+               <note place="margin">The godly have many enemies.</note>His enemies. <hi>The godly have their enemies,</hi> not one, but ma<g ref="char:EOLhyphen"/>ny, enemies, in the Plurall number: Wicked Angels and men, men both without and within the Church.</p>
+            <p>
+               <note place="margin">The extent of Gods goodneſſe to his.</note>Even his enemies, <hi>Or,</hi> his very enemies. This is to ex<g ref="char:EOLhyphen"/>preſſe the extent of Gods goodneſſe unto us, by way of em<g ref="char:EOLhyphen"/>phaſis; ſome are friends to the faithfull, oth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs are enemies, others are Neuters, like <hi>Gallio</hi> the Deputy,<note place="margin">Act. 18.16, 17.</note> caring neither for
+<pb n="6" facs="tcp:125315:4"/>the wicked <hi>Jews,</hi> nor zealous <hi>Paul;</hi> now the Lord will not onely make ſuch at peace with us, who as yet are indifferent, but even our very profeſſed enemies.</p>
+            <p>
+               <note place="margin">The wicked can never truly love the godly.</note>At peace. The wiſe man doth not ſay, That <hi>the Lord will make his enemies love him;</hi> no, for the unſanctified heart can<g ref="char:EOLhyphen"/>not truely love a righteous man, as righteous (that is the pro<g ref="char:EOLhyphen"/>perty of the faithfull ſoul) but he will make him at peace with him; that is, <hi>Outwardly there ſhall be quietneſſe, and profeſſi<g ref="char:EOLhyphen"/>on of love.</hi>
+            </p>
+            <p>He maketh;<note place="margin">Its of the Lord, not from the wicked, when they are at peace with the godly. Iſa. 57.19.</note> namely, The Lord. It's not any naturall in<g ref="char:EOLhyphen"/>clination, or vertuous diſpoſition the wicked have to the righ<g ref="char:EOLhyphen"/>teous, but the Lords work. <hi>He maketh even his enemies to be at peace with him.</hi>
+            </p>
+            <p>Again, Who is the author, who worketh our Peace? It's <hi>the Lord that createth Peace for us,</hi> whether it be peace within, or peace without us. The wicked have peace, ſuch as it is, inward and outward, but not from the God of peace. There were that propheſied,<note place="margin">Jer. 14.13. Ezek. 13 16. 1 Theſſ. 5.3.</note> That <hi>the Jews ſhould have aſſured peace,</hi> whoſe <hi>Propheſies</hi> were found <hi>Lyes;</hi> God having ſaid, That <hi>there was no peace for them. When the wicked ſhall ſay peace and ſafety, then ſudden deſtruction cometh upon them, as travell upon a woman with childe, and they ſhall not eſcape.</hi> This is the com<g ref="char:EOLhyphen"/>fort of the faithfull, That what they have of theſe temporall bleſſings, it's from the Lord.</p>
+            <p>
+               <note place="margin">So long as our wayes are plea<g ref="char:EOLhyphen"/>ſing to God, this promiſe be<g ref="char:EOLhyphen"/>longeth unto us.</note>
+               <hi>When a mans wayes,</hi> &amp;c. This promiſe is warranted unto us, during our continuance in well-doing: while our wayes are ſo undefiled, that they be acceptable before God. If we forſake this ſecure way, we forſake our own mercy.</p>
+            <p>Thus of the <hi>Particulars</hi> obſervable from the words <hi>ſeveral<g ref="char:EOLhyphen"/>ly</hi> confidered:<note place="margin">Jonah 2.8.</note> Come we now to the <hi>two Generalls</hi> of the Text, which have been already propounded, namely 1. The duty of every Chriſtian, <hi>To order his wayes ſo, that they may pleaſe God.</hi> 2. The reward of the duty; namely, That <hi>then the Lord will make the enemies of theſe his friends to be at peace with them;</hi>
+               <note place="margin">Joh. 15.14.</note> both which may be reduced into <hi>this one Point,</hi> which is here chiefly aymed at, and the principall ſcope of the whole Text; namely, That</p>
+            <p>
+               <note place="margin">The Doctrine.</note>
+               <hi>When our converſation is pleaſing to the Lord, and we ſo live,
+<pb n="7" facs="tcp:125315:4"/>as walking with God, he brings it to paſſe, that our very enemies are at peace with us.</hi>
+            </p>
+            <p>This <hi>Doctrine</hi> will be ſufficiently laid open unto us, if we ſhall examine, 1. The truth of it by Scriptures. 2. The manner how the Lord doth make our very enemies at peace with us. 3. The reaſons why he doth thus ſhew his love to his Saints. Then 4. Anſwer ſuch places of Scripture as ſeem to oppoſe this truth. 5. Make uſe and application of this comfortable promiſe.</p>
+            <div n="1" type="part">
+               <head>The firſt Point.</head>
+               <p>
+                  <hi>The proof of the Doctrine out of Gods Word.</hi>
+                  <note place="margin">Proved.</note> This we will expreſſe 1. <hi>Affirmatively,</hi> ſhewing, That <hi>when our wayes pleaſe the Lord, he makes our enemies at peace with us.</hi> 2. <hi>Negatively,</hi> or by way of <hi>contraries,</hi> to make the truth more evidently appear; namely, That <hi>when our actions and life are diſpleaſing to God, he makes our very friends at enmity with us.</hi>
+               </p>
+               <p>
+                  <note place="margin">Affirmatively by examples.</note>
+                  <hi>Affirmatively,</hi> and that by ſundry <hi>examples;</hi> for they are more familiar and convincing.</p>
+               <p>The firſt is between <hi>Abimelech</hi> King of the <hi>Philiſtims,</hi>
+                  <note place="margin">The 1 example Gen. 26.16.27, 28.</note> and <hi>Iſaac</hi> the faithfull ſeed of <hi>Abraham. Iſaac</hi> was hated of this Heatheniſh King, and driven away; yet in proceſſe of time, the Lord apparently ſhewed his bleſſings upon him, that the King could not but perceive it, and is conſtrained to come and ſeek to make a League with him.</p>
+               <p>The ſecond is of <hi>Jacob,</hi>
+                  <note place="margin">The 2 example Gen 35.5.</note> who thought his ſons had ſo ty<g ref="char:EOLhyphen"/>rannouſly ſlaughtered a whole City of men, the inhabitants of <hi>Shechem,</hi> that there could be nothing expected of upright <hi>Jacob,</hi> but that the neighbouring Nations ſhould have reven<g ref="char:EOLhyphen"/>ged their cruelty, with the like ſlaughter of him and his houſhold; yet the terrour of the Lord fell upon the people round about them as they travelled, that they ſuffered them peaceably to take their journey, without making any purſuit after them.</p>
+               <p>The third unto the <hi>Iſraelites,</hi>
+                  <note place="margin">The 3 example Exod. 12.26.</note> when the Lord gave them fa<g ref="char:EOLhyphen"/>vour in the eyes of the <hi>Aegyptians,</hi> their cruell enemies.</p>
+               <pb n="8" facs="tcp:125315:5"/>
+               <p>The fourth.<note place="margin">The 4 example Jer. 39.11, 12.</note> This promiſe was alſo made good unto <hi>Jere<g ref="char:EOLhyphen"/>my,</hi> when (being ungently uſed of his own people) in the ge<g ref="char:EOLhyphen"/>nerall Captivity of the <hi>Jews,</hi> he was reſtored to liberty, and kindely entreated of the enemies.</p>
+               <p>The fifth.<note place="margin">The 5 example Gen. 33 4.</note> But never was this truth more compleatly ac<g ref="char:EOLhyphen"/>compliſhed, then when the Lord made <hi>Eſau</hi> at peace with his brother <hi>Jacob;</hi> for where there is hatred betwixt brethren, its uſually moſt extreme,<note place="margin">Prov. 18 19.</note> as the <hi>wiſe man</hi> teacheth; <hi>the bro<g ref="char:EOLhyphen"/>ther offended is harder to be won then a ſtrong City, and their contentions are like the bars of a Caſtle.</hi> This is more marvel<g ref="char:EOLhyphen"/>lous, if we conſider, That he was even then in his march with four hundred men towards his brother, to revenge him<g ref="char:EOLhyphen"/>ſelf of his long unforgotten injuries, when he was reconciled unto him.</p>
+               <p>
+                  <note place="margin">Negatively by examples.</note>
+                  <hi>Negatively.</hi> When we diſpleaſe God, he makes our very friends at enmity with us; whereof we have alſo pregnant examples:</p>
+               <p>The firſt,<note place="margin">The 1 example 1 Sam. 15.23.</note> of <hi>Saul,</hi> becauſe his wayes were rebellious againſt the Lord, his own <hi>ſervants,</hi> his own <hi>Tribe,</hi> his ſon in law, <hi>David,</hi> and his own <hi>ſon</hi> out of his bowels, all were againſt him;<note place="margin">Sam 22 7, 8.</note> yea, <hi>Jonathan</hi> did favour <hi>David,</hi> his greateſt adverſary, whereof he himſelf did pitifully complain.</p>
+               <p>
+                  <note place="margin">The 2 example</note>The ſecond, of <hi>David,</hi> under whom the Lord had ſubdued all all his enemies, till ſuch time as he ſinned againſt God in the matter of <hi>
+                     <g ref="char:V">Ʋ</g>riah</hi> the <hi>Hittite,</hi> and then the Lord raiſed a<g ref="char:EOLhyphen"/>gainſt him his own darling <hi>Abſalom,</hi>
+                  <note place="margin">2 Sam. 15.10.</note> to conſpire againſt him for his Kingdom.</p>
+               <p>
+                  <note place="margin">The 3 example</note>The third, of <hi>Solomon.</hi> All the while his heart was perfect with his God, he had peace within his own Dominions from <hi>Dan</hi> to <hi>Beerſheba;</hi>
+                  <note place="margin">1 King 4 24.</note> but after he multiplies women to himſelf and ſacrifices to ſtrange gods, then God ſtirs up <hi>Hadad</hi> and <hi>Rezon,</hi>
+                  <note place="margin">1 King 11.14.23.26 28.</note> ſuch as were formerly at peace with him; yea, even his own ſervant and favourite <hi>Jeroboam.</hi>
+               </p>
+               <p>The fourth,<note place="margin">The 4 example 2 Chron. 24.18.25.</note> of <hi>Joaſh,</hi> who thrived while he did that which was right in the eyes of the Lord; but falling to Idolatry, and hatred of Reformation, his own ſervants conſpired againſt him, and flew him.</p>
+               <p>Thus have we the <hi>truth</hi> of the <hi>doctrine,</hi> both <hi>affirmatively,</hi> and <hi>negatively.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="9" facs="tcp:125315:5"/>
+               <head>The ſecond Point.</head>
+               <p>
+                  <hi>THe manner how the Lord doth make our very enemies at peace with us.</hi>
+                  <note place="margin">The Lord makes our ene<g ref="char:EOLhyphen"/>mies at peace with us, by changing their affections. Prov 21 1. Gen. 41.38.39. 1 Sam. 29.6.9.</note> This he bringeth to paſſe divers wayes:</p>
+               <p n="1">1. <hi>By altering and changing their affections</hi> (for he turneth mens hearts as the rivers of water, which way it pleaſeth him) <hi>and working in them an admiration of his hidden ones.</hi> Thus <hi>Pharaoh</hi> King of <hi>Aegypt</hi> wondered at the wiſedom of <hi>Joſeph,</hi> and his gift in the interpretation of dreams. So was <hi>David</hi> admired of <hi>Achiſh</hi> King of <hi>Gath,</hi> an Heathen, as if he had been an Angel of God. This effect was moſt illuſtrious in the <hi>Officers</hi> which were ſent by the <hi>Scribes</hi> and <hi>Phariſees</hi> to appre<g ref="char:EOLhyphen"/>hend <hi>Chriſt,</hi> and went to ſeek him for that very purpoſe; but when they came and heard him preaching to the people, they either forgot their errand, or willingly diſobeyed the com<g ref="char:EOLhyphen"/>mand of their maſters, and fell into admiration of our Savi<g ref="char:EOLhyphen"/>our, ſaying, <hi>Never man ſpake like this man.</hi>
+                  <note place="margin">John 7 46 Converting them. Iſa. 11.5, 6.</note>
+               </p>
+               <p n="2">2. <hi>By converting their wicked hearts, to become godly Saints:</hi> for <hi>JEHOVAH,</hi> by the power of his Word, can change the <hi>ſavage Leopard, into an harmleſſe Kid;</hi> and the <hi>ravening Wolf, into an innocent Lamb.</hi> Thus perſecuting <hi>Saul,</hi>
+                  <note place="margin">Acts 9.1.6.</note> who <hi>breathed out nothing but threatnings and ſlaughter againſt the diſciples of the Lord,</hi> was made a true convert, and a preach<g ref="char:EOLhyphen"/>ing <hi>Paul.</hi> And thus the <hi>Jaylour,</hi> who once impriſoned, ſtocked, and whipped <hi>Paul</hi> and <hi>Silas,</hi>
+                  <note place="margin">Acts 16.24 33, 34.</note> was converted to the faith, and became a friend to thoſe whom formerly be hated, <hi>waſhing their ſtripes, and ſetting meat before them.</hi>
+               </p>
+               <p n="3">3. <hi>By a divine terrour which the Lord ſtriketh into the hearts of their enemies.</hi>
+                  <note place="margin">Striking terror into their hearts. Gen 31.24.</note> Thus the Lord dealt with the fury of <hi>La<g ref="char:EOLhyphen"/>ban,</hi> when he and his company purſued after <hi>Jacob,</hi> in all probability, intending to offer violence unto him, he <hi>charged him that he ſhould not ſo much as ſpeak ought but good unto Jacob.</hi> This terrour was wrought in <hi>Jeroboam,</hi>
+                  <note place="margin">1 Kings 13 48</note> by withering of his arm miraculouſly, when he intended evill againſt the man of God, who ſpake to him in the Word of the Lord, and thereby <hi>Jeroboam</hi> was conſtrained to receive him courteouſly.</p>
+               <p n="4">
+                  <note place="margin">Deſtroying them.</note>4. <hi>By deſtroying them, that their irreconciliable hatred may pe<g ref="char:EOLhyphen"/>riſh with their lives, if their heart be ſo hard that it will not be
+<pb n="10" facs="tcp:125315:6"/>made pliable to his will.</hi> Thus dealt the Lord with <hi>Senacherih,</hi> and his Hoſt,<note place="margin">2 Kin. 19 35 37</note> when they encamped againſt his people, he ſlew him by his own ſons, and of his Army 185000 men by an Angel. Thus doth the Lord with the enemies of his Church, when they will needs band themſelves againſt his anoynted Ones.<note place="margin">Iſa. 8.9.</note> Let them <hi>aſſociate themſelves, they ſhall be broken in pieces; let them gird themſelves, they ſhall be broken in pieces,</hi> ſaith the Lord by his Prophet.</p>
+               <p n="5">5. <hi>By working (as we ſay) againſt the hair, when by permitting of the wicked to be at enmity with us,</hi>
+                  <note place="margin">Suffering them to do their worſt.</note> 
+                  <hi>he procures our peace and proſperity.</hi> Satan was at enmity with man-kinde, and the Lord permitted him to do his worſt: He thought to bring everlaſt<g ref="char:EOLhyphen"/>ing contempt upon all man-kinde,<note place="margin">Rom. 5.15.</note> through <hi>Adams</hi> fall, but God made it an occaſion of the greater exaltation of his Church. God ſuffered the <hi>AEgyptians</hi> to afflict his people; but <hi>the more they were afflicted,</hi>
+                  <note place="margin">Exod. 1.12. Deut. 23 5. Gen. 50.20. Rom. 8.28.</note> 
+                  <hi>the more they multiplied. Balaams</hi> curſe was turned into a bleſſing. The hatred of <hi>Joſephs</hi> bre<g ref="char:EOLhyphen"/>thren, turned to his greateſt advancement. Thus all things conſpire for the welfare of Gods beloved ones. Thus of the manner how the Lord maketh our very enemies to be at peace with us.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third Point.</head>
+               <p>
+                  <note place="margin">The Lord doth thus deal with his own, 2 Sam 19.36.</note>
+                  <hi>WHy the Lord doth thus graciouſly reward his ſervants.</hi> As <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rzillai</hi> ſaid to <hi>David, Thy ſervant will go with thee this little way, and why ſhould the King recompence it me with ſuch a reward?</hi> So may we ſay in this caſe: <hi>Behold, we have done the Lord this little piece of ſervice, and why ſhould be recom<g ref="char:EOLhyphen"/>pence us thus bounteouſly?</hi> Surely not for this our ſervice (for <hi>is it any pleaſure to the Almighty that thou art righteous?</hi> Or <hi>is it gain to him that thou makeſt thy wayes perfect?</hi>
+                  <note place="margin">Job 22 3. Luke 17.10.</note> And <hi>when we ſhall have done all thoſe things which are commanded us, we may ſay, We are unprofitable ſervants, we have done that which was our duty to do)</hi> nor for the righteouſneſſe of our wayes in pleaſing him.<note place="margin">Deut. 9 4, 5.</note> The Scripture teacheth us another leſſon. The main reaſons are theſe:</p>
+               <p n="1">
+                  <note place="margin">For the mani<g ref="char:EOLhyphen"/>feſtation of his goodneſſe.</note>1. His goodneſſe and kindeneſſe towards us free and un<g ref="char:EOLhyphen"/>deſerved, whom it pleaſeth to reward his own gifts, and to
+<pb n="11" facs="tcp:125315:6"/>crown his own graces in us.<note place="margin">1 Cor. 15.10.</note> That we can do any thing well pleaſing to God, it's <hi>his gift,</hi> and that while we do thus pleaſe him, he makes our very enemies to be at peace with us, is alſo from him, who neglecteth nothing that might be an encou<g ref="char:EOLhyphen"/>ragement unto us in well-doing.</p>
+               <p n="2">
+                  <note place="margin">For the de<g ref="char:EOLhyphen"/>monſtration of his power.</note>2. The neceſſity of conſequence; for if the Lord be once our friend, who can, or dare be our enemy? This the Apoſtle ſheweth: Having evidently demonſtrated, That God hath re<g ref="char:EOLhyphen"/>conciled us unto himſelf in Chriſt Jeſus, and is become our friend, he doubts not of the infallibility of this conſequence, <hi>If God be for us, who can be againſt us?</hi>
+                  <note place="margin">Rom. 8 31.</note> As if he ſhould have ſaid; I ask you all, if you can name that creature, that can be at enmity with us; no, ye cannot: He is the Lord of Hoſts, namely, Of the Armies of his Creatures, and he rules over them with more then Imperiall Authority; And if he be on our ſide, the very ſtones of the ſtreet,<note place="margin">Job 5.22, 23. <hi>Simil.</hi>
+                  </note> and the beaſts of the field ſhall be in league with us. It's not with the favourites of the King of heaven, as with the favourites of the little kings of the earth; Theſe may be in great favour with their Prince, and yet one of the ſubjects of the ſame Prince may lay violent hands upon them, even to the deprivation of their life, as was long ago exemplified in <hi>Abner,</hi> who though in league with King <hi>David,</hi> and entertained into his favour,<note place="margin">1 Sam. 3.27.</note> yet was treacherouſly ſlain by <hi>Joab, Davids</hi> ſubject:<note place="margin">Iſa. 37.38.</note> Yea, even Kings themſelves cannot in this caſe protect their own perſons from the injury of their own ſubjects; but thoſe are in a more ſafe condition. And in this reſpect, he that hath a care that his wayes may be pleaſing to God, hath more ſecurity and ſafety for his perſon, then even the greateſt Monarchs that are with<g ref="char:EOLhyphen"/>out this care. The Lord is a ſure Bulwark to all thoſe that are his precious treaſure.</p>
+               <p n="3">
+                  <note place="margin">For the accom<g ref="char:EOLhyphen"/>pliſhment of his promiſes. 1 King 8.49. 1 King 9.3.</note>3 That he might fulfill his promiſe which he made unto <hi>Salomon,</hi> when he prayed, That <hi>if his people ſhould ſin againſt him, and he given over into the hands of their enemies, that then if they ſhould repent them of their evill wayes, the Lord ſhould give them favour in the ſight of thoſe which had carried them captives.</hi> How this prayer was heard of God, as the Lord teſtified unto him in a Viſion. Thus why the Lord doth thus gratiouſly re<g ref="char:EOLhyphen"/>ward his ſervants.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="12" facs="tcp:125315:7"/>
+               <head>The fourth Point.</head>
+               <p>
+                  <hi>THe cleering of ſuch places of Scripture as ſeem to oppoſe this truth,</hi> nay, to imply the direct contrary; <hi>viz.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> That <hi>when our wayes pleaſe the Lord, our very friends are at emnity with us.</hi> Thus <hi>Jeremiah's</hi> brethren,<note place="margin">Jer 12 6. Jer. 15.10.</note> and they of his fathers houſe, dealt treacherouſly with him; and though he had done no evill, yet every one curſed him, whereof he himſelf complaineth. Alſo the Prophet <hi>Iſaiah</hi> ſaith,<note place="margin">Iſa. 59.15.</note> 
+                  <hi>He that departeth from evill, maketh him<g ref="char:EOLhyphen"/>ſelf a prey.</hi> Our Saviour alſo foretold, That <hi>even they of our own houſhold ſhould be our enemies,</hi>
+                  <note place="margin">Mat. 10.3, 36.</note> all w<hi rend="sup">ch</hi> ſeem to thwart this truth.</p>
+               <p>For <hi>Anſwer</hi> unto theſe, and ſuch like places, we are.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. To ſearch our ſelves, whether there be not ſome ſpeciall ſin abiding within us, deſerving this ſpeciall puniſhment, that God ſhould with-hold the fulfilling of this promiſe from us.</p>
+               <p n="2">2. To confider, That as God hath made this promiſe, ſo he hath appointed the uſe of all lawfull means conducing there<g ref="char:EOLhyphen"/>unto. Thus <hi>Jacob,</hi>
+                  <note place="margin">Gen. 32.28.</note> though he had a promiſe from Chriſt, (wreſtling with him in the form of a man) That he ſhould prevail with man,<note place="margin">Gen 35.8.</note> and conſequently, with his brother <hi>Eſau,</hi> yet he prepare; a Preſent, that he might thereby reconcile him<g ref="char:EOLhyphen"/>ſelf unto his brother <hi>Eſau.</hi> Thus alſo did <hi>Jacob</hi> ſend a Pre<g ref="char:EOLhyphen"/>ſent unto his ſon <hi>Joſeph,</hi> who did then govern in <hi>Aegypt</hi> under <hi>Pharaoh,</hi>
+                  <note place="margin">Gen. 43.11.14.</note> conceiving him to be his enemy. So muſt we uſe all lawfull means to have the good will of all men.<note place="margin">Heb 12 14.</note>
+               </p>
+               <p n="3">3. To comfort our ſelves: Foraſmuch as however the wic<g ref="char:EOLhyphen"/>ked are at variance with us for our ſincerity, yet this enmity proceedeth from their own hearts, and not from God.</p>
+               <p n="4">4. To conceive of all temporall promiſes made unto us in Scripture, that we are not to expect them as abſolute promi<g ref="char:EOLhyphen"/>ſes, but conditionally made unto us, ſo far forth as they ſhall be for Gods glory, and our comfort and ſalvation; and if promiſes be not ſanctified to theſe ends, we are far better with<g ref="char:EOLhyphen"/>out them then with them.<note place="margin">Pſal 119.7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> It's good for us ſometimes to be afflicted, ſometimes to be perſecuted of enemies, that we might have the ſtronger evidence, that we are not of the world, be<g ref="char:EOLhyphen"/>cauſe it hated us:<note place="margin">Joh. 15.19.</note> Yea, it is good for us ſometime that we ſhould be ſuffered of God to fall into ſin, though not in it ſelf, yet bee uſe it makes us more fervent in prayer, more
+<pb n="13" facs="tcp:125315:7"/>wary and faithfull. It may be demanded, Whether we ought (being hated for righteouſneſſe ſake) to ſuſpect that our wayes are not pleaſing to God, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> becauſe of this promiſe made of peace with our enemies, and the Command of our Saviour, That <hi>we ſhould rejoyce when we ſuffer perſecution for his Names ſake.</hi>
+                  <note place="margin">Matt 5.11 12.</note>
+               </p>
+               <p>As this promiſe made in this Text ſhould not make us de<g ref="char:EOLhyphen"/>ſpair of the uprightneſſe of our wayes,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> ſo neither ſhould that rejoycing which our Saviour commands us, reſtrain us from en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring into an examination of our own wayes, and the true cauſe of our ſuffering the hatred of others, that thereby we might take occaſion to magnifie Gods goodneſſe unto us in tranſlating the puniſhment of our ſins upon an unjuſt cauſe, that we ſhould ſuffer for righteouſneſſe ſake, when as at other times, many ſins have paſſed from us, for which we might juſtly have ſuffred the malice of the wicked.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The fifth Point.</head>
+               <p>
+                  <hi>THe <g ref="char:V">Ʋ</g>ſe and Application of this comfortable promiſe.</hi> This may be branched into divers particulars:</p>
+               <p n="1">1. Is it thus, That <hi>the Lord, if our wayes pleaſe him, will make our very enemies at peace with us?</hi>
+                  <note place="margin">Uſe 1<g ref="char:punc">▪</g> When our friends are at enmity with us, we have then cauſe to ſuſpect the up<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghtneſſe of our wayes.</note> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen what ſhal we think of our ſelves, when not only our enemies, but our very friends are at debate &amp; variance with us, and ready to do what miſchief they can unto us? When ſervants, children, &amp; wives conſpire againſt the Maſter of the family? when Prince and ſubjects are againſt each other? Have we not here juſt cauſe to ſuſpect the upright<g ref="char:EOLhyphen"/>neſſe of our wayes, and that <hi>we walk contrary unto God,</hi> and that therefore <hi>God walks contrary to us,</hi> and croſſeth us even in thoſe things which ſhould be bleſſings unto us?<note place="margin">Lev. 26 23, 24.</note> Yet we impute theſe things uſually unto the ſecond cauſes; as to the wickedneſſe and bad diſpoſition of ſuch as are becom our enemies, as if the Lord had no ſtroke in this. Who ſtirred up <hi>Abſalom</hi> againſt his fa<g ref="char:EOLhyphen"/>ther? was it not the Lord? yes, <hi>I will ſtir up an enemy againſt thee out of thine own houſe,</hi> ſaith the Lord to <hi>David;</hi>
+                  <note place="margin">2 Sam 12.11</note> and yet we in ſuch caſes cry out upon the unnaturalneſſe of children, wicked<g ref="char:EOLhyphen"/>neſſe of ſervants, perverſeneſſe of wives, churliſhneſſe of huſ<g ref="char:EOLhyphen"/>bands, &amp;c. whereas we ought principally to look up unto God, warning us of our ſins by ſuch like caſtigations, intimating un<g ref="char:EOLhyphen"/>to us thereby, That ſomething is amiſſe in the family, good du<g ref="char:EOLhyphen"/>ties are neglected, ſervants not inſtructed, Sabbath not wholly
+<pb n="14" facs="tcp:125315:8"/>ſanctified, or ſomething there is, not as it ſhould be: This I am ſure, here lies the cauſe, Our wayes are not pleaſing to the Lord;<note place="margin">Lam. 3 39. Uſe 2. When our wayes pleaſe God, our friends ſhall be at peace with us. Luk. 15 20.22.</note> 
+                  <hi>for man ſuffers for his ſins.</hi>
+               </p>
+               <p n="2">2. Shall our enemies be at peace with us if our wayes pleaſe the Lord? then ſurely much more our friends, and ſuch as have been well-willers of the houſhold of faith unto us in the time of our unregenerate eſtate, whether fathers, brothers, or other friends. If the father bear a naturall affection to the prodi<g ref="char:EOLhyphen"/>gall, whilſt he is waſting his ſubſtance amongſt harlots, how much more will he run unto him, when he is yet afar off, af<g ref="char:EOLhyphen"/>ter he repenteth, and is come to himſelf? As the Apoſtle ſpeaks in another caſe not much unlike to this; <hi>If when we were his enemies,</hi>
+                  <note place="margin">Rom. 5 8, 9, 10.</note> 
+                  <hi>God loved us, and ſent his Son to redeem us, much more now will he be affected towards us, and ſave us?</hi>
+               </p>
+               <p n="3">3. If our enemies and our friends be at peace with us, then what can be againſt us?<note place="margin">Uſe 3. When our wayes pleaſe God, nothing can be againſt us.</note> What can Satan, hell, death, and all the armies of darkneſſe (for they alſo are of the number of thoſe, which ſhall, will they, nill they, be at peace with us al<g ref="char:EOLhyphen"/>ſo) prevail againſt us? Oh how comfortable is the ſtate of a Chriſtian in this regard! Come war, the ſword, captivity, yea, and death is ſelf, or any outward calamity through enemies oppoſition, yet here a word of ſure comfort, <hi>That if our wayes ſhall be ſo ordered, that we may have peace with God, he will ſo bring it to paſſe</hi> (one way or other, as hath been already ſhewed) <hi>that our enemies ſhall be at peace with us.</hi> The Lord will be that unto us, which he promiſed to be unto his elect, under the <hi>Babyloniſh</hi> Captivity; <hi>Though I ſcatter them into the furthermoſt parts of the earth,</hi>
+                  <note place="margin">Ezek. 11.16.</note> 
+                  <hi>yet I will be a little ſanctuary unto them in the midſt of their enemies.</hi> Oh how ought this to ſtir us up to be undefiled in all our wayes (eſpecially in theſe times of the generall combuſtion of Gods Church, wherein the time is come,<note place="margin">1 Pet. 4 17.</note> whereof Saint <hi>Peter</hi> ſpake, That <hi>judgement ſhould begin at the houſe of God</hi>) that ſo in the times of di<g ref="char:EOLhyphen"/>ſtreſſe we may have boldneſſe towards God, and challenge the Lord of his promiſe here, and in other places of Scri<g ref="char:EOLhyphen"/>pture, That he would be a ſanctuary to us in the midſt of troubles, and that we may ſay as good <hi>Hezekiah; Remember,</hi>
+                  <note place="margin">Iſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 38.3.</note> 
+                  <hi>O Lord, that I have walked before thee with a
+<pb n="15" facs="tcp:125315:8"/>perfect heart, and fulfill thy promiſe to thy ſervant.</hi>
+               </p>
+               <p n="4">4. Since it is a confirmed truth,<note place="margin">Uſe 4. We muſt labour that our wayes may pleaſe the Lord. Pſal 120.7.</note> 
+                  <hi>That they whoſe wayes pleaſe the Lord, he will make their very enemies at peace with them:</hi> Is there any that with <hi>David,</hi> are <hi>for peace,</hi> or that would be freed from the grievances of outward enemies, here's the way chalkt out unto him by <hi>Salomon,</hi> to ſtrive that <hi>all his wayes may pleaſe the Lord.</hi> Moſt of us, when we ſeek the favour of others, trie all wayes; but this true way, this comes laſt, or never into our mindes; and yet ſure I am, it's the moſt cheap and husbandly of all wayes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> But ſome will ask me,<note place="margin">Joh. 6 28.</note> 
+                  <hi>What wayes are thoſe which are plea<g ref="char:EOLhyphen"/>ſing to God,</hi> as the <hi>Jews</hi> ſaid to <hi>Chriſt, What ſhall we do that we may work the works of God?</hi> For we may be deceived in the choice of our way.<note place="margin">Prov. 14 2.</note> 
+                  <hi>There is a way</hi> (ſaith the wiſe man) <hi>ſeems good unto us, and the end thereof is death.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <hi>Anſw.</hi> The Scriptures are the onely lantern and light to direct us into the true way; they muſt be our guide,<note place="margin">Pſal, 119.105. Wayes pleaſing to the Lord.</note> and they will inform us that theſe are the wayes muſt be our wayes we muſt walk in, if we will pleaſe the Lord; namely,</p>
+               <p n="1">1. <hi>The way of faith</hi> (for <hi>without this</hi> (whatever we do) <hi>it is impoſſible to pleaſe God</hi>) not onely a bare knowledge of the lawfulneſſe of ſuch actions as we perform to be pleaſing to God, but alſo faith to do them,<note place="margin">The way of Faith. Heb. 11 6.</note> even for this very reſpect that God requires them; and yet ſo doing them, as expecting on<g ref="char:EOLhyphen"/>ly ſalvation by Chriſt.</p>
+               <p n="2">2. <hi>The way of Gods Commandments;</hi>
+                  <note place="margin">The way of his Command<g ref="char:EOLhyphen"/>ments. Matth 15.9. Pſal 119.1.3.</note> not mans inventions of will-Worſhip, nor humane preſcriptions; they <hi>are all vain,</hi> if we may believe him in whoſe mouth there is no guile: but <hi>Bleſſed are they that walk in the Law of the Lord, and they do no iniquity that walk in his wayes.</hi>
+               </p>
+               <p n="3">3. <hi>The ſtrait and narrow way:</hi>
+                  <note place="margin">The ſtrait and narrow way. Matth 7 14.</note> 
+                  <hi>Strive to enter into the ſtrait gate; for ſtrait is the gate, and narrow is the way that lead<g ref="char:EOLhyphen"/>eth unto life.</hi> This is not the way of the <hi>looſe Libertines,</hi> and <hi>profane perſons</hi> of theſe times.</p>
+               <p n="4">4. <hi>The old way. Stand ye in the wayes,</hi>
+                  <note place="margin">The old way, Jer. 6.16.</note> 
+                  <hi>and ask for the old way, where is the good way, and ye ſhall finde reſt for your ſouls.</hi> This old way is the way of faithfulneſſe and truth, which are called <hi>Gods counſells of old,</hi> as being that eternall truth of
+<pb n="16" facs="tcp:125315:9"/>God, written in the heart of <hi>Adam,</hi> in the ſtate of inno<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cy, and after revealed in Scripture, and more briefly unfold<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the ten Commandments, oppoſed to the new deviſed do<g ref="char:EOLhyphen"/>ctrines of the Popiſh Church, ſo ſtrictly binding the conſci<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ces of ſimple people.</p>
+               <p n="5">5. They muſt not be unequall and uneven wayes (ſwelling with the high mountains,<note place="margin">The way of humility.</note> and pride and preſumption, either of Gods mercy, or our own merit) but <hi>plained</hi> and made <hi>equ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> with a ſanctified <hi>humilty</hi> of heart. When <hi>Iohn</hi> the <hi>Baptiſt</hi> wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to prepare the way of the Lord,<note place="margin">Iſa. 40.4.</note> he cryed out, That <hi>every val<g ref="char:EOLhyphen"/>ley</hi> (of deſpair) <hi>ſhould be exalted;</hi> and <hi>every mountain</hi> (of pride and preſumption) <hi>ſhould be made low.</hi> Theſe are the wayes wherein we muſt walk; wherein if we ſhall walk, we ſhall pleaſe the Lord; and if <hi>our wayes pleaſe the Lord, he will make our very enemies to be at peace with us.</hi>
+               </p>
+               <closer>
+                  <hi>Laus Domino Chriſto.</hi> Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
